@@ -1,6 +1,6 @@
 # flutterappbmi
 
-A new Flutter application.
+A Flutter application to demonstrate customization and reusabiility of Widgets.
 
 ## Getting Started
 
